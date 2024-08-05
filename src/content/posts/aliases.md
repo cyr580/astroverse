@@ -1,15 +1,15 @@
 ---
-title: Aliases
-slug: aliases
-description: An intro to aliases with Astro.
+title: 标题？
+slug: 单链接？
+description: 描述？
 category:
   - Technology
   - Blog
 tags:
   - Blog
-pubDate: 2023-09-01
+pubDate: 2024-08-05
 cover: https://images.unsplash.com/photo-1516557070061-c3d1653fa646??w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2t8ZW58MHwwfDB8fHwy
-coverAlt: AstroVerse-Aliases
+coverAlt: 封面描述？
 author: CYR580
 ---
 
