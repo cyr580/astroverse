@@ -2,9 +2,9 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "CYRCOM";
-export const SITE_TITLE = "CYRCOM";
-export const SITE_DESCRIPTION = "一天天在折腾啥";
+export const BRAND_NAME = "AstroVerse";
+export const SITE_TITLE = "AstroVerse";
+export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "AstroVerse - All Tags";
@@ -29,8 +29,9 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/Blog/1/", title: "Blog" },
-  { href: "/category/Technology/1/", title: "Technology" },
+  { href: "/category/One/1/", title: "One" },
+  { href: "/category/Two/1/", title: "Two" },
+  { href: "/category/Three/1/", title: "Three" },
 ];
 
 // Footer Links, src/components/Footer.astro
@@ -44,12 +45,12 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/cncyrcom",
+    href: "https://twitter.com/astrodotbuild",
     icon: "tabler:brand-twitter",
     label: "Twitter",
   },
   {
-    href: "https://github.com/cyr580",
+    href: "https://github.com/isooosi",
     icon: "tabler:brand-github",
     label: "GitHub",
   },
